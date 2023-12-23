@@ -11,3 +11,4 @@
 
 -Added page title
 -Improved responsiveness
+-Worked on image and made self-sufficient
